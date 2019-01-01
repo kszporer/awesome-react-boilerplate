@@ -1,0 +1,11 @@
+{
+  "name": "awesome-react-boilerplate",
+  "version": "0.1.0",
+  "description": "Awsesome React Boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Krzysztof Szporer",
+  "license": "ISC"
+}
