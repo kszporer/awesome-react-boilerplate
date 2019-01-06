@@ -49,6 +49,7 @@
     "prettier": "^1.15.3",
     "pretty-quick": "^1.8.0",
     "prop-types": "^15.6.2",
+    "react-axe": "^3.0.2",
     "react-testing-library": "^5.4.4",
     "style-loader": "^0.23.1",
     "webpack": "^4.28.3",
