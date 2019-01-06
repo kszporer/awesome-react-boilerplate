@@ -14,7 +14,7 @@ This repository contains React boilerplate with modern JavaScript tooling.
 - Husky to configure precommit hooks
 - Accessibility issues checking with react-axe
 
-## How to build you project based on this one?
+## How to build your project based on this one?
 
 1. Start by cloning this repository
 
